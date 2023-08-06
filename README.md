@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating secure and fast applications with a good user expirience
 - 🌱 I’m currently learning Typescript and tdd.
-- 💬 Ask me anything about js,Reactjs and Nodejs
+- 💬 Ask me anything about js,Reactjs , Nodejs and NestJs
 - 📫 How to reach me: winniekagendo35@gmail.com
 
 <div>
