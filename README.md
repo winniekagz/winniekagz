@@ -18,7 +18,7 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=winniekagz&theme=dark&background=000000" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winniekagz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winniekagz&layout=compact&theme=vision-friendly-dark)](https://github.com/winniekagz/github-readme-stats)
 
 
 <div stye="display:flex; flex-direction:row;">
