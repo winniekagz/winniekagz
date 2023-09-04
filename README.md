@@ -16,7 +16,7 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winniekagz&layout=compact&theme=vision-friendly-dark)](https://github.com/winniekagz/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winniekagz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winniekagz&repo=github-readme-stats)](https://github.com/winniekagz/github-readme-stats)
 
 <div stye="display:flex; flex-direction:row;">
   
