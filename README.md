@@ -4,7 +4,22 @@
 - 💬 Ask me anything about js,Reactjs and Nodejs
 - 📫 How to reach me: winniekagendo35@gmail.com
   
+## What I Do
 
+- 🚀 Developing user-friendly interfaces using React.js
+- 💻 Embracing the power of TypeScript for robust and error-free code
+- 📱 Learning React Native to explore the world of mobile development
+- 🌐 Creating solutions that adhere to industry best practices
+
+## Current Endeavors
+
+Right now, I'm delving into React Native to expand my skills into mobile development. Simultaneously, I'm actively applying my expertise in frontend development, ensuring a seamless and engaging user experience.
+
+## Let's Connect
+
+I'm always open to collaboration, discussions, and sharing insights. If you have any questions, ideas, or just want to connect, feel free to drop me an email at winniekagendo35@gmail.com.
+
+Let's build something amazing together! 🚀
 
 
 <a href="https://github.com/wnniekagz/convoychat">
