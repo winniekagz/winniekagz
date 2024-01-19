@@ -1,8 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on creating secure and fast applications with a good user expirience
-- 🌱 I’m currently learning Typescript and tdd.
-- 💬 Ask me anything about js,Reactjs and Nodejs
-- 📫 How to reach me: winniekagendo35@gmail.com
+### Hi there 👋 I'm Winfred, a passionate React.js and TypeScript frontend developer with a keen focus on delivering user-facing solutions. My development journey is guided by best practices, ensuring scalable and maintainable code.
+
   
 ## What I Do
 
